@@ -45,7 +45,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Inicio de sesión</h1>
+    <h1>Inicio de sesión de Usuarios Registrados</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_de_la_UPTC.svg" alt="Imagen de muestra" width="200px">
     <form>
       <label for="username">Nombre de usuario:</label>
